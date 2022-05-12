@@ -1,244 +1,244 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T14:38:58.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="pwvtrJSDp1nu_wP7VlBZ" version="18.0.3" type="github">
-  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2316" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-05-12T14:50:37.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="8NPRuuxjaagKZB0inWUY" version="18.0.3" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="save m3u process">
+    <mxGraphModel dx="837" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="o8sAVub8GQ1O6A1mKxiy-55" target="o8sAVub8GQ1O6A1mKxiy-56" edge="1">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8sAVub8GQ1O6A1mKxiy-55" target="o8sAVub8GQ1O6A1mKxiy-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-55" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-55" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="45" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="o8sAVub8GQ1O6A1mKxiy-56" target="o8sAVub8GQ1O6A1mKxiy-58" edge="1">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8sAVub8GQ1O6A1mKxiy-56" target="o8sAVub8GQ1O6A1mKxiy-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-62" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="o8sAVub8GQ1O6A1mKxiy-59" vertex="1" connectable="0">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-62" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" parent="o8sAVub8GQ1O6A1mKxiy-59" vertex="1" connectable="0">
           <mxGeometry x="-0.0526" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="o8sAVub8GQ1O6A1mKxiy-56" target="o8sAVub8GQ1O6A1mKxiy-60" edge="1">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8sAVub8GQ1O6A1mKxiy-56" target="o8sAVub8GQ1O6A1mKxiy-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-63" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="o8sAVub8GQ1O6A1mKxiy-61" vertex="1" connectable="0">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-63" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" parent="o8sAVub8GQ1O6A1mKxiy-61" vertex="1" connectable="0">
           <mxGeometry x="-0.1556" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-56" value="是否强制更新" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-56" value="是否强制更新" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="180" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-58" value="根据URL上删除数据库中数据" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-58" value="根据URL上删除数据库中数据" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="o8sAVub8GQ1O6A1mKxiy-60" target="o8sAVub8GQ1O6A1mKxiy-64" edge="1">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8sAVub8GQ1O6A1mKxiy-60" target="o8sAVub8GQ1O6A1mKxiy-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-60" value="依据URL 查询数据数据中数据" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-60" value="依据URL 查询数据数据中数据" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-33" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="o8sAVub8GQ1O6A1mKxiy-64" target="0T_LEWc_SRNtec1cE5A2-32">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8sAVub8GQ1O6A1mKxiy-64" target="0T_LEWc_SRNtec1cE5A2-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-38" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-33">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-38" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-33">
           <mxGeometry x="-0.1625" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-36" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="o8sAVub8GQ1O6A1mKxiy-64" target="0T_LEWc_SRNtec1cE5A2-34">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o8sAVub8GQ1O6A1mKxiy-64" target="0T_LEWc_SRNtec1cE5A2-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-37" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-36">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-37" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-36">
           <mxGeometry x="-0.075" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-48" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="o8sAVub8GQ1O6A1mKxiy-64" target="0T_LEWc_SRNtec1cE5A2-46">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8sAVub8GQ1O6A1mKxiy-64" target="0T_LEWc_SRNtec1cE5A2-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-49" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-48">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-49" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-48">
           <mxGeometry x="-0.113" y="2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o8sAVub8GQ1O6A1mKxiy-64" value="数据库中是否存在数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+        <mxCell id="o8sAVub8GQ1O6A1mKxiy-64" value="数据库中是否存在数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="480" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-35" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-32" target="0T_LEWc_SRNtec1cE5A2-34">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-32" target="0T_LEWc_SRNtec1cE5A2-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-43" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-32" target="0T_LEWc_SRNtec1cE5A2-41">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-32" target="0T_LEWc_SRNtec1cE5A2-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-32" value="判断目录中是否存在m3u文件" style="rhombus;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-32" value="判断目录中是否存在m3u文件" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="640" width="195" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-40" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-34" target="0T_LEWc_SRNtec1cE5A2-39">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-34" target="0T_LEWc_SRNtec1cE5A2-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-34" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;根据m3u地址下载文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-34" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;根据m3u地址下载文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-39" target="0T_LEWc_SRNtec1cE5A2-41">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-39" target="0T_LEWc_SRNtec1cE5A2-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-80" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-42">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-80" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-42">
           <mxGeometry x="-0.1543" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-97" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-39">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="1904" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-39" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;下载是否成功&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-39" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;下载是否成功&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="780" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-45" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-41" target="0T_LEWc_SRNtec1cE5A2-44">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-41" target="0T_LEWc_SRNtec1cE5A2-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-41" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;获取下载之后的文件名&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-41" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;获取下载之后的文件名&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-47" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-44" target="0T_LEWc_SRNtec1cE5A2-46">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-44" target="0T_LEWc_SRNtec1cE5A2-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-44" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;将文件名和URL组合为对饮关系存储数据库&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-44" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;将文件名和URL组合为对饮关系存储数据库&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="920" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-51" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-46" target="0T_LEWc_SRNtec1cE5A2-50">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-46" target="0T_LEWc_SRNtec1cE5A2-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-57" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-46" target="0T_LEWc_SRNtec1cE5A2-56">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-46" target="0T_LEWc_SRNtec1cE5A2-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-46" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;解析下载之后m3u文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-46" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;解析下载之后m3u文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-53" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-50" target="0T_LEWc_SRNtec1cE5A2-52">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-50" target="0T_LEWc_SRNtec1cE5A2-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-50" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;解析得到EPG地址&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-50" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;解析得到EPG地址&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-55" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-52" target="0T_LEWc_SRNtec1cE5A2-54">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-52" target="0T_LEWc_SRNtec1cE5A2-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-85" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-55">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-85" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-55">
           <mxGeometry x="-0.1444" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-77" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-52" target="0T_LEWc_SRNtec1cE5A2-76">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-52" target="0T_LEWc_SRNtec1cE5A2-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-86" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-77">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-86" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="0T_LEWc_SRNtec1cE5A2-77">
           <mxGeometry x="-0.2545" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-52" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;判断节目单地址下载目录是否为空&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-52" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;判断节目单地址下载目录是否为空&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="1110" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-93" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-54" target="0T_LEWc_SRNtec1cE5A2-76">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-93" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-54" target="0T_LEWc_SRNtec1cE5A2-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-54" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;清空或者删除文件夹&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-54" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;清空或者删除文件夹&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-61" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-56" target="0T_LEWc_SRNtec1cE5A2-60">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-56" target="0T_LEWc_SRNtec1cE5A2-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-56" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;解析之后得到相应的频道直播数据源&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-56" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;解析之后得到相应的频道直播数据源&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-63" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-60" target="0T_LEWc_SRNtec1cE5A2-62">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-60" target="0T_LEWc_SRNtec1cE5A2-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-67" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-60" target="0T_LEWc_SRNtec1cE5A2-66">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-60" target="0T_LEWc_SRNtec1cE5A2-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-71" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-60" target="0T_LEWc_SRNtec1cE5A2-70">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-60" target="0T_LEWc_SRNtec1cE5A2-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-60" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;将得到的数据存储数据库表中&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-60" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;将得到的数据存储数据库表中&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="1370" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-74" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-62" target="0T_LEWc_SRNtec1cE5A2-73">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-62" target="0T_LEWc_SRNtec1cE5A2-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-62" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;执行下载频道logo图片&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-62" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;执行下载频道logo图片&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1385" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-69" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-66" target="0T_LEWc_SRNtec1cE5A2-68">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-66" target="0T_LEWc_SRNtec1cE5A2-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-66" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;启动刷新状态调度器&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-66" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;启动刷新状态调度器&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1385" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-72" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-68" target="0T_LEWc_SRNtec1cE5A2-70">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-68" target="0T_LEWc_SRNtec1cE5A2-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-68" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;获取最新频道源状态&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-68" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;获取最新频道源状态&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-95" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-70" target="0T_LEWc_SRNtec1cE5A2-94">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-95" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-70" target="0T_LEWc_SRNtec1cE5A2-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-70" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;依据id 更新频道源表&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-70" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;依据id 更新频道源表&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="1510" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-75" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-73" target="0T_LEWc_SRNtec1cE5A2-70">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-73" target="0T_LEWc_SRNtec1cE5A2-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-73" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;logo文件名和id组合&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-73" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;logo文件名和id组合&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-79" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-76" target="0T_LEWc_SRNtec1cE5A2-78">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-76" target="0T_LEWc_SRNtec1cE5A2-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-76" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;依据EPG 地址列表批量下载文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-76" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;依据EPG 地址列表批量下载文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-82" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-78" target="0T_LEWc_SRNtec1cE5A2-81">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-78" target="0T_LEWc_SRNtec1cE5A2-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-78" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;下载是否成功&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-78" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;下载是否成功&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-84" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-81" target="0T_LEWc_SRNtec1cE5A2-83">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-81" target="0T_LEWc_SRNtec1cE5A2-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-81" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;组合成功下载的文件名和地址&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-81" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;组合成功下载的文件名和地址&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-88" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-83" target="0T_LEWc_SRNtec1cE5A2-87">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-83" target="0T_LEWc_SRNtec1cE5A2-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-83" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;存储EPG地址表&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-83" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;存储EPG地址表&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-90" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-87" target="0T_LEWc_SRNtec1cE5A2-89">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-87" target="0T_LEWc_SRNtec1cE5A2-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-87" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;解析所有下载的xml文件，合并其中所有的频道数据到一个文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-87" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;解析所有下载的xml文件，合并其中所有的频道数据到一个文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-92" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-89" target="0T_LEWc_SRNtec1cE5A2-91">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-89" target="0T_LEWc_SRNtec1cE5A2-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-89" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;解析该文件，将文件名和频道名，组合&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;fontColor=#1D3557;strokeWidth=2;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-89" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;解析该文件，将文件名和频道名，组合&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-96" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-91" target="0T_LEWc_SRNtec1cE5A2-94">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-96" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0T_LEWc_SRNtec1cE5A2-91" target="0T_LEWc_SRNtec1cE5A2-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-91" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;存储到可用频道表中&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-91" value="&lt;span style=&quot;caret-color: rgb(50, 50, 50); color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 13px; text-size-adjust: auto; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;存储到可用频道表中&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0T_LEWc_SRNtec1cE5A2-94" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="0T_LEWc_SRNtec1cE5A2-94" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1880" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
